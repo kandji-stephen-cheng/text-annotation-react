@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Highlight portions of the text and assign keys to it via the dropdown. Uses
+local storage to persist changes. 
 ## Available Scripts
 
 In the project directory, you can run:
